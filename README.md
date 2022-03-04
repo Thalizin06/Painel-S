@@ -39,6 +39,23 @@ Os que não estão, é porque ainda estão em desenvolvimento.
 - [ ] Consulta de Placa
 - [x] Localizador de IP
 
+<h2 align="center">🗜 Instalação</h2>
+
+Estamos sempre atualizando a ferramenta. Por conta disso, as vezes consultas podem ficar **offline** temporariamente. 
+Iremos avisar aqui quando cada ferramentas for atualizada!
+Para você executar o **Painel-S** é nescessario ter o python instalado e para isso você pode baixar no site oficial do python clicando [**Aqui!**](https://www.python.org/downloads/)
+
+Depois de baixar e instalar o python você pode baixar o **Kiny-Painel** diretamente do github com os seguintes comandos:
+
+```
+💻 Pc - Visual Studio
+% pip install discord.py
+% pip install asyncio
+% pip install decouple
+% pip install requests
+% pip install json (Talvez n precise)
+```
+
 <div align="center">
   <h2>👤 Perfis:</h2>
 
