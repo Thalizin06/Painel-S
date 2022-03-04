@@ -29,15 +29,15 @@
 Todos os que estão marcados já se encontram presente no **Painel-S** funcionando. 
 Os que não estão, é porque ainda estão em desenvolvimento.
 
-- [**x**] Consulta de CEP
+- [x] Consulta de CEP
 - [ ] Consulta de CNPJ
-- [**x**] Consulta de DDD
+- [x] Consulta de DDD
 - [ ] Consulta de CPF
 - [ ] Consulta de BIN
 - [ ] Consulta de Nome
 - [ ] Consulta de Número
 - [ ] Consulta de Placa
-- [**x**] Localizador de IP
+- [x] Localizador de IP
 
 <div align="center">
   <h2>👤 Perfis:</h2>
