@@ -45,7 +45,7 @@ Estamos sempre atualizando a ferramenta. Por conta disso, as vezes consultas pod
 Iremos avisar aqui quando cada ferramentas for atualizada!
 Para você executar o **Painel-S** é nescessario ter o python instalado e para isso você pode baixar no site oficial do python clicando [**Aqui!**](https://www.python.org/downloads/)
 
-Depois de baixar e instalar o python você pode baixar o **Kiny-Painel** diretamente do github com os seguintes comandos:
+Depois de baixar e instalar o python você pode baixar o **Painel-S** diretamente do github com os seguintes comandos:
 
 ```
 💻 Pc - Visual Studio
