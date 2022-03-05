@@ -2,12 +2,12 @@
 <img src= "https://cdn.discordapp.com/attachments/935532000725594122/949104779626426448/linha-imagem-animada-0363.gif"/>
 </p>
 
-<p align="center" ><img alt="Kiny-Painel" src="https://c.tenor.com/2PvZ15w3_88AAAAC/coceira.gif"></p>
+<p align="center" ><img alt="Painel-S" src="https://c.tenor.com/2PvZ15w3_88AAAAC/coceira.gif"></p>
 
 <h1 align="center">Painel-S (BETA)</h1>
 <p align="center">
-  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/Kiny-Kiny/Kiny-Painel">
-  <img alt="Latest version" src="https://img.shields.io/github/v/release/Kiny-Kiny/Kiny-Painel.svg" alt="Latest version">
+  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/Thalizin06/Painel-S">
+  <img alt="Latest version" src="https://img.shields.io/github/v/release/Thalizin06/Painel-S.svg" alt="Latest version">
 
   <p align="center">
     Este painel de consulta tem o objetivo de retornar dados através do IP, DDD ou CEP. De forma que não precise pagar por isso.
@@ -17,7 +17,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/Thalizin06/Painel-S/blob/main/README.md#-Atualizações">Atualizações</a> •
+  <a href="https://github.com/Thalizin06/Painel-S/blob/main/README.md#Atualizações">Atualizações</a> •
   <a href="https://github.com/Thalizin06">Author</a> •
   <a href="https://www.painel-s.repl.co">Site do Painel</a>
 </p>
