@@ -17,9 +17,9 @@
 
 
 <p align="center">
-  <a href="https://github.com/Kiny-Kiny/Kiny-Painel/blob/master/README.md#-features">Atualizações</a> •
+  <a href="https://github.com/Thalizin06/Painel-S/blob/main/README.md#-Atualizações">Atualizações</a> •
   <a href="https://github.com/Thalizin06">Author</a> •
-  <a href="http://int-search.xyz/">Site do Painel</a>
+  <a href="https://www.painel-s.repl.co">Site do Painel</a>
 </p>
 
 <h3><p align="center">Version: 2.0</p></h3>
