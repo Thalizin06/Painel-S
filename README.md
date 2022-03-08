@@ -30,7 +30,7 @@ Todos os que estão marcados já se encontram presente no **Painel-S** funcionan
 Os que não estão, é porque ainda estão em desenvolvimento.
 
 - [x] Consulta de CEP
-- [ ] Consulta de CNPJ
+- [x] Consulta de CNPJ - SOMENTE PRO!
 - [x] Consulta de DDD
 - [ ] Consulta de CPF
 - [ ] Consulta de BIN
